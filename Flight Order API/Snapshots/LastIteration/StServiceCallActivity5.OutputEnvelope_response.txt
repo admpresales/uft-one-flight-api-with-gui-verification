@@ -1,0 +1,2 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Body><s:Fault><faultcode>s:Client</faultcode><faultstring xml:lang="en-US">Abort due to constraint violation
+Orders.CustomerName may not be NULL</faultstring></s:Fault></s:Body></s:Envelope>
