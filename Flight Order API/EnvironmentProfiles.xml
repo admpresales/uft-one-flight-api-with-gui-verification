@@ -32,13 +32,13 @@
     <VarName>TestDir</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile />
+    <SystemProfile>C:\Users\demo\Documents\UFT One\DevOps Container\uft-one-flight-api-with-gui-verification\Flight Order API</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>TestName</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile />
+    <SystemProfile>Flight Order API</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>LocalHostName</VarName>
@@ -56,25 +56,25 @@
     <VarName>OSVersion</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>Microsoft Windows NT 10.0.14393.0</SystemProfile>
+    <SystemProfile>Microsoft Windows NT 10.0.17763.0</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>ProductDir</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>C:\Program Files (x86)\Micro Focus\Unified Functional Testing\</SystemProfile>
+    <SystemProfile>C:\Program Files (x86)\OpenText\UFT One\</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>ProductName</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>Micro Focus Unified Functional Testing</SystemProfile>
+    <SystemProfile>OpenText UFT One</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>ProductVer</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>14.50</SystemProfile>
+    <SystemProfile>23.4</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>UserName</VarName>
@@ -86,7 +86,7 @@
     <VarName>CurrentDate</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>9/20/2018 5:02:54 PM</SystemProfile>
+    <SystemProfile>4/29/2024 3:04:59 PM</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>QcUrl</VarName>

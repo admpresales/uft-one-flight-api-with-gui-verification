@@ -7,7 +7,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>Flight_Order_API</RootNamespace>
     <AssemblyName>Script</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <ReferencePath>
         $(ST_INSTALL_PATH)\bin\;
         $(ST_INSTALL_PATH)\addins\ServiceTest\BindingImpl\;
@@ -80,6 +80,9 @@ $(ST_INSTALL_PATH)\AddIns\ServiceTest\UFT;</ReferencePath>
     </Reference>
     <Reference Include="HP.ST.Fwk.JVMLoader.dll">
       <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="HP.ST.Fwk.KafkaFWK">
       <Private>False</Private>
     </Reference>
     <Reference Include="HP.ST.Fwk.ReportCreator.dll">

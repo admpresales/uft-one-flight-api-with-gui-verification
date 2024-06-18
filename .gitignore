@@ -2,3 +2,4 @@
 *.lck
 /Res*
 #end UFT ignore section
+.idea/*

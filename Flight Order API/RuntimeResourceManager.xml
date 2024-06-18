@@ -1,8 +1,8 @@
 <RuntimeResourceManager>
-<RuntimeResource><Key>{Step.GeneralProperties.StServiceCallActivity9.TransportProtocol.SOAPProperties.EndpointAddress}</Key><Path>0</Path><Value></Value><AddinId>StmDependencyResolver</AddinId></RuntimeResource>
-<RuntimeResource><Key>{Step.GeneralProperties.StServiceCallActivity7.TransportProtocol.SOAPProperties.EndpointAddress}</Key><Path>0</Path><Value></Value><AddinId>StmDependencyResolver</AddinId></RuntimeResource>
 <RuntimeResource><Key>{Flight_Info!Input.TablePath}</Key><Path>Local</Path><Value>Flight_Info\SampleAppData.xlsx</Value><AddinId>DataAwarenessDependencyResolver</AddinId></RuntimeResource>
 <RuntimeResource><Key>{Flight_Info!Output.TablePath}</Key><Path>Local</Path><Value>Flight_Info\SampleAppData.xlsx</Value><AddinId>DataAwarenessDependencyResolver</AddinId></RuntimeResource>
 <RuntimeResource><Key>{Flight_Info!Sheet3.TablePath}</Key><Path>Local</Path><Value>Flight_Info\SampleAppData.xlsx</Value><AddinId>DataAwarenessDependencyResolver</AddinId></RuntimeResource>
 <RuntimeResource><Key>{Step.GeneralProperties.CallQTPTest11.ScriptPath}</Key><Path>C:\Users\demo\Desktop\Verify Flight</Path><Value>..\Verify Flight</Value><AddinId>DefaultDependencyResolver</AddinId></RuntimeResource>
+<RuntimeResource><Key>{Step.GeneralProperties.StServiceCallActivity12.TransportProtocol.SOAPProperties.EndpointAddress}</Key><Path>0</Path><Value></Value><AddinId>StmDependencyResolver</AddinId></RuntimeResource>
+<RuntimeResource><Key>{Step.GeneralProperties.StServiceCallActivity13.TransportProtocol.SOAPProperties.EndpointAddress}</Key><Path>0</Path><Value></Value><AddinId>StmDependencyResolver</AddinId></RuntimeResource>
 </RuntimeResourceManager>

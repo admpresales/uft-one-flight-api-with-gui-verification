@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>34a0648a-f8d0-41f3-9eaa-aaa7fb33c923</ID>
+  <Name>Flights_SO</Name>
+  <Type>WSDL</Type>
+  <Version>1</Version>
+  <CreationDate>2024-04-25T23:27:08.806421+00:00</CreationDate>
+  <UpdateDate>2024-04-25T23:27:08.806421+00:00</UpdateDate>
+  <LoaderID>SignatureResourceHandler</LoaderID>
+  <MetaDataSignatureFile>d59a1f4d-09c1-452b-bee6-d22732a4f88d.xml</MetaDataSignatureFile>
+  <TestResourceId>d59a1f4d-09c1-452b-bee6-d22732a4f88d</TestResourceId>
+  <RepositoryType>TestRepository</RepositoryType>
+  <SignatureCodonId>HP.ST.WebServiceWsdl</SignatureCodonId>
+  <SignatureAddinVersion>2023.4.0.270</SignatureAddinVersion>
+  <Properties>
+    <Item>
+      <Key>
+        <string>RepositoryPath</string>
+      </Key>
+      <Value>
+        <string>C:\Users\demo\Documents\UFT One\DevOps Container\uft-one-flight-api-with-gui-verification\Flight Order API\EmbeddedResources</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>ResourceOrigin</string>
+      </Key>
+      <Value>
+        <string>C:\Users\demo\Documents\UFT One\DevOps Container\uft-one-flight-api-with-gui-verification\Flight Order API\EmbeddedResources\Flights_SO</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>PrototypeDbVersion</string>
+      </Key>
+      <Value>
+        <string>2023.4.0.270</string>
+      </Value>
+    </Item>
+  </Properties>
+</ResourceManifest>
